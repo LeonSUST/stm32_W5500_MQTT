@@ -1,0 +1,11 @@
+.\output\mqttconnectclient.o: word\MQTT\MQTTConnectClient.c
+.\output\mqttconnectclient.o: word\MQTT\MQTTPacket.h
+.\output\mqttconnectclient.o: word\MQTT\MQTTConnect.h
+.\output\mqttconnectclient.o: word\MQTT\MQTTPublish.h
+.\output\mqttconnectclient.o: word\MQTT\MQTTSubscribe.h
+.\output\mqttconnectclient.o: word\MQTT\MQTTUnsubscribe.h
+.\output\mqttconnectclient.o: word\MQTT\MQTTFormat.h
+.\output\mqttconnectclient.o: word\MQTT\StackTrace.h
+.\output\mqttconnectclient.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\output\mqttconnectclient.o: word\MQTT\MQTTPacket.h
+.\output\mqttconnectclient.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
